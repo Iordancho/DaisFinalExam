@@ -1,0 +1,15 @@
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\DaisFinalExam.Repository.csproj.AssemblyReference.cache
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\DaisFinalExam.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\DaisFinalExam.Repository.AssemblyInfoInputs.cache
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\DaisFinalExam.Repository.AssemblyInfo.cs
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\DaisFinalExam.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\bin\Debug\net8.0\DaisFinalExam.Repository.deps.json
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\bin\Debug\net8.0\DaisFinalExam.Repository.dll
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\bin\Debug\net8.0\DaisFinalExam.Repository.pdb
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\bin\Debug\net8.0\DaisFinalExam.Models.dll
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\bin\Debug\net8.0\DaisFinalExam.Models.pdb
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\DaisFina.40D9D60F.Up2Date
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\DaisFinalExam.Repository.dll
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\refint\DaisFinalExam.Repository.dll
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\DaisFinalExam.Repository.pdb
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Repository\obj\Debug\net8.0\ref\DaisFinalExam.Repository.dll
