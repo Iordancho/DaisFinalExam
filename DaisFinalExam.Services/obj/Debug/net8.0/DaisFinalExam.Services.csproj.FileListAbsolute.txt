@@ -1,0 +1,17 @@
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\DaisFinalExam.Services.csproj.AssemblyReference.cache
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\DaisFinalExam.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\DaisFinalExam.Services.AssemblyInfoInputs.cache
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\DaisFinalExam.Services.AssemblyInfo.cs
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\DaisFinalExam.Services.csproj.CoreCompileInputs.cache
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\bin\Debug\net8.0\DaisFinalExam.Services.deps.json
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\bin\Debug\net8.0\DaisFinalExam.Services.dll
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\bin\Debug\net8.0\DaisFinalExam.Services.pdb
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\bin\Debug\net8.0\DaisFinalExam.Models.dll
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\bin\Debug\net8.0\DaisFinalExam.Repository.dll
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\bin\Debug\net8.0\DaisFinalExam.Repository.pdb
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\bin\Debug\net8.0\DaisFinalExam.Models.pdb
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\DaisFina.95496CAC.Up2Date
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\DaisFinalExam.Services.dll
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\refint\DaisFinalExam.Services.dll
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\DaisFinalExam.Services.pdb
+C:\Users\Intern\source\repos\DaisFinalExam\DaisFinalExam.Services\obj\Debug\net8.0\ref\DaisFinalExam.Services.dll
