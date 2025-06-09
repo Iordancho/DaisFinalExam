@@ -1,0 +1,19 @@
+﻿@model CancelPaymentViewModel
+
+@{
+    ViewData["Title"] = "Cancel Payment";
+}
+
+<h2>Потвърдете отказа</h2>
+
+<p>
+    Сигурни ли сте че искате да откажете плащането?
+</p>
+
+
+
+<form asp-action="Cancel" method="post">
+    <input type="hidden" asp-for="PaymentId" />
+    <button type="submit" class="btn btn-success">Потвърждавам</button>
+    <a asp-action="GetAll" asp-controller="Payment" class="btn btn-secondary ms-2">Отказ</a>
+</form>
